@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Mihir-Portfolio/static/css/main.9ca5cdab.css",
+    "main.js": "/Mihir-Portfolio/static/js/main.05ea075b.js",
+    "static/js/787.5809834d.chunk.js": "/Mihir-Portfolio/static/js/787.5809834d.chunk.js",
+    "static/media/Mihir_Gupta_v6.pdf": "/Mihir-Portfolio/static/media/Mihir_Gupta_v6.d38b7e496052c966532f.pdf",
+    "static/media/profile-picture-2.jpg": "/Mihir-Portfolio/static/media/profile-picture-2.552db3f693a4e21aa152.jpg",
+    "static/media/HardwareProject2.JPG": "/Mihir-Portfolio/static/media/HardwareProject2.9a886e4006e00c8854f6.JPG",
+    "static/media/SortingAlgorithmImage7.PNG": "/Mihir-Portfolio/static/media/SortingAlgorithmImage7.a3b079df703542f49aaa.PNG",
+    "static/media/ImageClassifier.PNG": "/Mihir-Portfolio/static/media/ImageClassifier.78bc9c76da24aae78884.PNG",
+    "index.html": "/Mihir-Portfolio/index.html",
+    "main.9ca5cdab.css.map": "/Mihir-Portfolio/static/css/main.9ca5cdab.css.map",
+    "main.05ea075b.js.map": "/Mihir-Portfolio/static/js/main.05ea075b.js.map",
+    "787.5809834d.chunk.js.map": "/Mihir-Portfolio/static/js/787.5809834d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ca5cdab.css",
+    "static/js/main.05ea075b.js"
+  ]
+}
