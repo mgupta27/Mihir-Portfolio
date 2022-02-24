@@ -1,0 +1,36 @@
+.navigation-bar{
+    height: 35px;
+    width: 400px;
+    margin-top: -90px;
+    margin-left: 7px;
+    background-color: lightblue;
+  }
+  
+  ul{
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    list-style-type: none;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    padding: 4px 16px;
+  }
+  
+  a {
+    color: black;
+    /* background-color: lightblue; */
+  }
+  
+  a:hover{
+    text-decoration: underline;
+  }

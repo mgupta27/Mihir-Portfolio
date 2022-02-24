@@ -1,0 +1,9 @@
+.body{
+    max-width: 700px;
+    margin: 30px auto;
+    min-height: 50px;
+    padding: 30px;
+    border-radius: 5px;
+    margin-top: -100px;
+    text-align: left;
+}
