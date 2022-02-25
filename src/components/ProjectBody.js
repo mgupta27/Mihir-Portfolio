@@ -19,7 +19,7 @@ const ProjectBody = () => {
                           to categorize images in the CIFAR-10 Dataset. Used
                           Machine Learning concepts and the Tensorflow platform
                           to develop the model. The model's progress was graphed
-                          using Matplotlib (Displayed above)."
+                          using Matplotlib (displayed above)."
               />             
             </th>
             <th>
