@@ -3,6 +3,7 @@ import ProjectTile from '../components/ProjectTile';
 import SortingAlgorithmImage from './../components/images/SortingAlgorithmImage7.PNG'
 import HardwareProjectImage from './../components/images/HardwareProject2.JPG'
 import ImageClassifierImage from './../components/images/ImageClassifier.PNG'
+import BattleSnake from './../components/images/Battlesnake5.gif'
 
 const ProjectBody = () => {
   return (
@@ -10,6 +11,20 @@ const ProjectBody = () => {
         <div className="project-body">
         <table>
           <tr>
+          <th>
+              <ProjectTile 
+              imageSource={BattleSnake} 
+              title="Battlesnake Tournament" 
+              tools="Python | Flask | Battlesnake API"
+              description=" Worked with a team of four RBC interns to compete
+                          in the RBC Winter Battle Snake Competition. In three 
+                          weeks, our team used Python and Flask to deploy a 
+                          web server to run our Battle Snake - Slyth (the dark 
+                          green snake). Our snake took 1st place in the 
+                          rookie division of the competition!"
+              link="https://github.com/Destructa321/W22_RBC_Battlesnake"
+              />             
+            </th>
             <th>
               <ProjectTile 
               imageSource={ImageClassifierImage} 
@@ -37,6 +52,8 @@ const ProjectBody = () => {
                           puzzle."
               />             
             </th>
+          </tr>
+          <tr>
             <th>
               <ProjectTile 
               imageSource={SortingAlgorithmImage} 
