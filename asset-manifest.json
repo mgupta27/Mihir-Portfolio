@@ -1,21 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.b84dc331.css",
-    "main.js": "/static/js/main.490e0367.js",
+    "main.css": "/static/css/main.ef11ce42.css",
+    "main.js": "/static/js/main.18484f72.js",
     "static/js/787.5809834d.chunk.js": "/static/js/787.5809834d.chunk.js",
     "static/media/Battlesnake5.gif": "/static/media/Battlesnake5.700e7fa33c05fe9b6a8c.gif",
+    "static/media/Battlesnake4.gif": "/static/media/Battlesnake4.008c7b0dfcb210cc40af.gif",
     "static/media/Mihir_Gupta_v6.pdf": "/static/media/Mihir_Gupta_v6.d38b7e496052c966532f.pdf",
     "static/media/profile-picture-2.jpg": "/static/media/profile-picture-2.552db3f693a4e21aa152.jpg",
     "static/media/HardwareProject2.JPG": "/static/media/HardwareProject2.9a886e4006e00c8854f6.JPG",
     "static/media/SortingAlgorithmImage7.PNG": "/static/media/SortingAlgorithmImage7.a3b079df703542f49aaa.PNG",
     "static/media/ImageClassifier.PNG": "/static/media/ImageClassifier.78bc9c76da24aae78884.PNG",
+    "static/media/Slyth.PNG": "/static/media/Slyth.535ee3d810dca62e5763.PNG",
     "index.html": "/index.html",
-    "main.b84dc331.css.map": "/static/css/main.b84dc331.css.map",
-    "main.490e0367.js.map": "/static/js/main.490e0367.js.map",
+    "main.ef11ce42.css.map": "/static/css/main.ef11ce42.css.map",
+    "main.18484f72.js.map": "/static/js/main.18484f72.js.map",
     "787.5809834d.chunk.js.map": "/static/js/787.5809834d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b84dc331.css",
-    "static/js/main.490e0367.js"
+    "static/css/main.ef11ce42.css",
+    "static/js/main.18484f72.js"
   ]
 }
