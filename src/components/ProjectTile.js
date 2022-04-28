@@ -4,7 +4,7 @@ import { FaGithub } from "react-icons/fa";
 const ProjectTile = ( {imageSource, title, tools, description, link} ) => {
       return (
         <div className="project-tile">
-          <img src={imageSource} alt="Sorting-Algorithm-Application" />
+          <img src={imageSource} alt="" />
 
           <div className="project-title">
             {title}

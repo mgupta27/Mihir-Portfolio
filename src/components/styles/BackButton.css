@@ -1,0 +1,21 @@
+ .position-button {
+     text-align: right;
+ }
+ 
+ button {
+    display: inline-block;
+    background: #deb;
+    color: #000;
+    border: none;
+    padding: 10px 20px;
+    margin: 25px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 18px;
+    font-family: 'Inconsolata', monospace;
+    font-weight: 500;
+  }
+
+  button:hover {
+      opacity: 80%;
+  }

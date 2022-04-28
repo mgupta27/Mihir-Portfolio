@@ -31,3 +31,21 @@
   text-align: left;
   line-height: 35px;
 }
+
+.image-1{
+  height: 153px;
+  width: 270px;
+  background-image: url(./../images/Slyth.PNG);
+}
+
+.image-2{
+  height: 224px;
+  width: 224px;
+  background-image: url(./../images/Battlesnake4.gif);
+}
+
+.image-3{
+  height: 144px;
+  width: 144px;
+  background-image: url(./../images/Recursive_Flood_Fill.gif);
+}

@@ -1,4 +1,5 @@
 import Header from '../components/Header'
+import BackButton from '../components/BackButton'
 import './../components/styles/BlogTemplate.css'
 import './../App.css'
 
@@ -37,6 +38,9 @@ const Blog1 = ( ) => {
             will never even start.”
           </i>
         </div>
+
+        <BackButton />
+        
       </div>
     </div>
   );

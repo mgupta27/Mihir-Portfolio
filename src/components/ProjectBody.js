@@ -35,6 +35,7 @@ const ProjectBody = () => {
                           Machine Learning concepts and the Tensorflow platform
                           to develop the model. The model's progress was graphed
                           using Matplotlib (displayed above)."
+              link="https://github.com/mgupta27/computer-vision-bootcamp"
               />             
             </th>
             <th>
@@ -50,6 +51,7 @@ const ProjectBody = () => {
                           push buttons, STM32-Nucleo microcontroller, 
                           and low-level programming to develop this 
                           puzzle."
+                link="https://github.com/mgupta27/Beethoven-Riddle"
               />             
             </th>
           </tr>
