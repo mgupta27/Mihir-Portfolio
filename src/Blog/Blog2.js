@@ -55,7 +55,7 @@ const Blog2 = ( ) => {
 
         <div className="blog-text">
           The Battlesnakes must also be experts in navigating the game board. If they accidentally crash 
-          into the wall, their own body, or an opponents body, they are removed from the game.
+          into the wall, their own body, or an opponents' body, they are removed from the game.
           Battlesnakes can also be eliminated in a head-to-head collision. In this case, the shortest snake 
           is knocked out from the match. 
         </div>
@@ -102,7 +102,7 @@ const Blog2 = ( ) => {
           Before we implemented our strategy for our Battlesnake, we started off with simple algorithms for our snake to
           follow. We prevented our snake from crashing into walls and had the moves randomly picked. Our snake was now
           able to succesfully move around the board. We then coded functions to prevent the snake from crashing into its 
-          own body and an opponents body. We tested out our snake in an actual competition and found that our code was 
+          own body and an opponents' body. We tested out our snake in an actual competition and found that our code was 
           working well. The last thing we added was a function to have our snake follow the closest piece of food on the 
           board. Thus far, the idea for our snake was to navigate the board safely and eat ask much food as possible. We 
           decided to place a limit on how much the snake should eat to prevent it from becoming too large and have trouble
@@ -144,7 +144,7 @@ const Blog2 = ( ) => {
         <br />
 
         <div className="blog-text">
-          In our case, we made a recursive algorithm that count's the number of free blocks in the grid for each direction. 
+          In our case, we made a recursive algorithm that counts the number of free blocks in the grid for each direction. 
           This allowed us to analyze the amount of space we had for each move and prevented our snake from entering an 
           inescapable crevice in the game board. Our snake started to make smarter moves now. It was able to eat enough food 
           to become the largest snake on the board, make safe offensive moves to eliminate oponents, and play defensively by 
