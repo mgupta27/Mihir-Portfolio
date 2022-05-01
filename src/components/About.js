@@ -1,5 +1,5 @@
 import './styles/About.css'
-import resume from './resume/Mihir_Gupta_v6.pdf'
+import resume from './resume/Mihir_Gupta_v8.pdf'
 
 const About = () => {
   return (

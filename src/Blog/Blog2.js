@@ -132,7 +132,7 @@ const Blog2 = ( ) => {
 
         <div className="blog-text">
           The flood-fill algorithm is a popular algorithm used to traverse a grid and avoid obstacles to complete an action. A 
-          visualization of the flood fill algorithm can be seen below. In this case, the flood fill algorithm is used to color
+          visualization of the flood-fill algorithm can be seen below. In this case, the flood-fill algorithm is used to color
           an object orange within the boundaries. You might have encountered this algorithm when you use the paint function in 
           drawing software (e.g. Microsoft Paint). 
         </div>
