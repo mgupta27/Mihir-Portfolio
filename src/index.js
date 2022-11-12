@@ -7,6 +7,7 @@ import Blog from './pages/Blog';
 import Contact from './pages/Contact';
 import Blog1 from './Blog/Blog1';
 import Blog2 from './Blog/Blog2'
+import Blog3 from './Blog/Blog3'
 import reportWebVitals from './reportWebVitals';
 import {BrowserRouter as Router, Routes, Route} from 'react-router-dom'
 
@@ -19,6 +20,7 @@ ReactDOM.render(
       <Route path='/Contact' element={ <Contact /> } />
       <Route path='/Blog-1' element={ <Blog1 /> } />
       <Route path='/Blog-2' element={ <Blog2 /> } />
+      <Route path='/Blog-3' element={ <Blog3 /> } />
     </Routes>
   </Router>,
 

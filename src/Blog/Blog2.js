@@ -6,7 +6,7 @@ import './../App.css'
 const Blog2 = ( ) => {
   return (
     <div className="App">
-      <Header />,
+      <Header />
       <div className="blog-post">
         <div className="blog-title">3, 2, 1 Battlesnakes!</div>
         <div className="blog-date">March 12th, 2022</div>

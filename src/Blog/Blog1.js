@@ -6,7 +6,7 @@ import './../App.css'
 const Blog1 = ( ) => {
   return (
     <div className="App">
-      <Header />,
+      <Header />
       <div className="blog-post">
         <div className="blog-title">New Year, New Hobby</div>
         <div className="blog-date">January 1st, 2022</div>
@@ -22,7 +22,7 @@ const Blog1 = ( ) => {
           <p />
           If you have any questions about my experience so far as a UWaterloo student or 
           would like to know more about me, feel free to reach out to me by clicking the 
-          Content tab.
+          Contact tab.
           <p />
           P.S. Here’s a funny joke that I would like to share :)
           <p />
